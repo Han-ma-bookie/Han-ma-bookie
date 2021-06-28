@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro, Brazillian, 20
-- 👀 I'm interested in improve my skills in C++ and Python 
-- 🌱 I’am currently learning Software Engineering, C++ and Pyhton. 
+- 👀 I'm interested in improve my skills in C, C++ and Python 
+- 🌱 I’am currently learning Software Engineering, C, C++ and Pyhton. 
 
 <!---
 Han-ma-bookie/Han-ma-bookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
